@@ -20,4 +20,4 @@ YanGirlTrust: Start the game with the girl at maximum trust and the exit door op
 
 UnfinishedLibrary: When inviting using a custom book "...", return all uncompleted receptions.
 
-*Save Load after returning to main menu bugged
+* Save Load after returning to main menu bugged
