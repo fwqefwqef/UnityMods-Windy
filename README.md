@@ -15,3 +15,7 @@ BlackSmithCheat: All blacksmith upgrades / reforges are rigged to roll the highe
 # [Yandere AI Girlfriend Simulator]
 
 YanGirlTrust: Start the game with the girl at maximum trust and the exit door open.
+
+# [Library of Ruina]
+
+UnfinishedLibrary: When inviting using a custom book "...", return all uncompleted receptions. (DEPRECATED)
