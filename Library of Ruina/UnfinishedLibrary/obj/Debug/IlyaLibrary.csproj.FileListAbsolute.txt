@@ -1,2 +1,0 @@
-C:\Users\sjkim\source\repos\IlyaLibrary\obj\Debug\IlyaLibrary.csproj.AssemblyReference.cache
-C:\Users\sjkim\source\repos\IlyaLibrary\obj\Debug\IlyaLibrary.csproj.CoreCompileInputs.cache
