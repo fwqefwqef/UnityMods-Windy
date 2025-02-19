@@ -18,4 +18,4 @@ YanGirlTrust: Start the game with the girl at maximum trust and the exit door op
 
 # [Library of Ruina]
 
-UnfinishedLibrary: When inviting using a custom book "...", return all uncompleted receptions. (DEPRECATED)
+UnfinishedLibrary: When inviting using a custom book "...", return all uncompleted receptions. (BUGGED)
